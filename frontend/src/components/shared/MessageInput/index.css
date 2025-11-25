@@ -1,0 +1,13 @@
+.message-input {
+  padding: var(--spacing-md) var(--spacing-lg);
+  border-top: 1px solid var(--color-border-light);
+  background: var(--color-bg-primary);
+}
+
+.message-input__attachments {
+  margin-top: var(--spacing-sm);
+}
+
+.message-input__attachment-item {
+  margin-right: var(--spacing-sm);
+}
